@@ -1,0 +1,2 @@
+# codack-palindrome
+Palindrome detector
